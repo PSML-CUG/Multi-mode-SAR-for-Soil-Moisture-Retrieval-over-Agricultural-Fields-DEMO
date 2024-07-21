@@ -11,7 +11,7 @@ Soil Moisture Retrieval over Agricultural Fields with Machine Learning: A Compar
 
 This demo shows the RFR method and FFS+RFR for soil moisture retrieval of wheat crops.
 
-%%%  NOTE：Need to download SimpleR Toolbox （https://github.com/IPL-UV/simpleR）
+%%%  NOTE：Need to download SimpleR Toolbox URL: https://github.com/IPL-UV/simpleR
 
 %  Step1
 %  After feature extraction using SNAP 8.0, imported into matlab to .mat file (DATA_SM_FP_Wheat)
